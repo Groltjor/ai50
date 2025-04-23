@@ -1,14 +1,16 @@
 # Repositorio de AI50 - Introduction to Artificial Intelligence with Python
 
-Este repositorio cuenta con todas mis practicas del curso AI50, en las cuales se proporcionaba una serie de ejercicios donde mi trabajo era implementar algoritmos clásicos de Inteligencia Artifical y en los últimos ejercicios el uso intensivo de librerias como TensorFlow o NLPK para realizar tareas de aprendizaje y procesamiento de lenguaje.
+Este repositorio cuenta con todas mis practicas del curso AI50, en las cuales se proporcionaba una serie de ejercicios donde mi trabajo era implementar algoritmos clásicos de Inteligencia Artifical, mientras que en los últimos ejercicios el uso intensivo de librerias como TensorFlow o NLPK para realizar tareas de aprendizaje y procesamiento de lenguaje.
 
 ## Certificado de compleción
 
-El siguiente certificado avala que complete éxitosamente y pase las pruebas técnicas de cada uno de los proyectos listados en mi repositorio. Este para ser emitido debe cada uno de los proyectos ser entregado a través del submit50, librería para la evaluacion de la seríe de cursos del CS50.
+El siguiente certificado avala que complete éxitosamente y pase las pruebas técnicas de cada uno de los proyectos listados en mi repositorio. Para ser emitido, debe cada uno de los proyectos ser entregado a través del submit50, librería en Python para la evaluacion de la seríe de cursos del CS50.
 
 [https://certificates.cs50.io/33b5e452-0447-4a93-a170-c7b748920041.pdf?size=letter](https://certificates.cs50.io/33b5e452-0447-4a93-a170-c7b748920041.pdf?size=letter)
 
 ## Tecnologias y enfoques aplicados en el AI50
+
+A lo largo de este curso la teoría y práctica impartida esta relacionado a algoritmos clásicos y uso de librerías para ML fueron:
 
 - **Búsqueda con inteligencia artificial**
   - Algoritmos de búsqueda no informada: Depth-First Search (DFS), Breadth-First Search (BFS)
