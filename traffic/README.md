@@ -1,4 +1,8 @@
+# Ejercicio Traffic - Redes Neuronales en Tensorflow
+
 Este es el archivo README del modelo entrenado para el ejercicio Traffic del curso AI50, donde se utiliza un conjunto de imágenes de señalizaciones europeas para entrenar una red neuronal capaz de reconocerlas.
+
+## Librerias utilizadas
 
 En este caso, utilizando la librería OpenCV, las imágenes se convierten en arreglos de NumPy y se redimensionan a 30x30 píxeles, con el objetivo de reducir la complejidad computacional y acelerar el procesamiento durante el entrenamiento.
 
